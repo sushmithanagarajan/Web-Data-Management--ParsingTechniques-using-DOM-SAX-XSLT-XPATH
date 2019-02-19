@@ -1,0 +1,94 @@
+Output for Question 1:
+===================Output for Query 1========================
+Calculus I
+Calculus I
+Calculus II
+Calculus II
+Calculus II
+Introduction to Analysis I
+Complex Analysis
+Advanced Calculus
+Geometry
+Probability
+Topics in Advanced AnalysisII
+Algebraic Structures
+Topics In Computer Theory
+-------------------------------------------------------------------------------------------------------------------------
+Output for Question2 :
+
+===============Output for Query 1=======================
+Query1 :Calculus I
+Query1 :Calculus I
+Query1 :Calculus II
+Query1 :Calculus II
+Query1 :Calculus II
+Query1 :Introduction to Analysis I
+Query1 :Complex Analysis
+Query1 :Advanced Calculus
+Query1 :Geometry
+Query1 :Probability
+Query1 :Topics in Advanced AnalysisII
+Query1 :Algebraic Structures
+Query1 :Topics In Computer Theory
+===================Output for Query 2=======================
+Query2 :Mayer
+===================Output for Query 3========================
+Query3 :Calculus II
+Query3 :Introduction to Analysis I
+Query3 :Introduction to Analysis II
+Query3 :Geometry
+Query3 :Probability
+Query3 :Ornamental Art
+------------------------------------------------------------------------------------------------------------------------------
+
+Output for Question 3:
+
+List of Math Course
+
+10430 MATH 111 F01 Calculus I 1.0 Mayer M-T-W-F 08:00AM 08:50 LIB 204 
+10431 MATH 111 F02 Calculus I 1.0 Shurman M-T-W-F 11:00AM 11:50 LIB 204 
+10432 MATH 111 F03 Calculus I 1.0 Mayer M-T-W-F 12:00PM 12:50 ELIOT 200 
+10433 MATH 111 F04 Calculus I 1.0 Potluri M-T-W-F 12:00PM 12:50 PSYCH 102 
+10434 MATH 111 F05 Calculus I 1.0 Shurman M-T-W-F 01:10PM 02:00 ELIOT 207 
+10435 MATH 111 F06 Calculus I 1.0 Potluri M-T-W-F 02:10PM 03:00 PSYCH 102 
+20442 MATH 111 S01 Calculus I 1.0 Potluri M-T-W-F 11:00AM 11:50 PSYCH 102 
+20443 MATH 111 S02 Calculus I 1.0 Potluri M-T-W-F 12:00PM 12:50 PSYCH 102 
+20444 MATH 112 S01 Calculus II 1.0 Mayer M-T-W-F 08:00AM 08:50 LIB 204 
+20445 MATH 112 S02 Calculus II 1.0 Perkinson M-T-W-F 11:00AM 11:50 LIB 204 
+20446 MATH 112 S03 Calculus II 1.0 Jones M-T-W-F 12:00PM 12:50 ELIOT 200 
+20447 MATH 112 S04 Calculus II 1.0 Wieting M-T-W-F 12:00PM 12:50 LIB 204 
+20448 MATH 112 S05 Calculus II 1.0 Perkinson M-T-W-F 01:10PM 02:00 ELIOT 207 
+20449 MATH 112 S06 Calculus II 1.0 Bernhard M-T-W-F 02:10PM 03:00 ELIOT 200 
+10436 MATH 121 F01 Introduction to Computing 1.0 Fix M-W-F 11:00AM 11:50 PHYSIC 123 
+10436 MATH 121 F01 Introduction to Computing 1.0 Fix Th 11:00AM 11:50 LIB 18 
+10437 MATH 121 F02 Introduction to Computing 1.0 Fix M-W-F 01:10PM 02:00 PHYSIC 123 
+10437 MATH 121 F02 Introduction to Computing 1.0 Fix Th 01:10PM 02:00 LIB 18 
+20450 MATH 132 S Introduction to Combinatorics 1.0 Shurman M-W-F 10:00AM 10:50 ELIOT 207 
+10438 MATH 141 F01 Intro to Probability and Statist 1.0 Jones M-W-F 11:00AM 11:50 PHYSIC 240A 
+10439 MATH 141 F02 Intro to Probability and Statist 1.0 Jones M-W-F 01:10PM 02:00 PHYSIC 240A 
+10440 MATH 141 FL1 Intro to Probability and Statist 0.0 Jones T 09:00AM 09:50 LIB 18 
+10441 MATH 141 FL2 Intro to Probability and Statist 0.0 Jones T 11:00AM 11:50 LIB 18 
+10442 MATH 141 FL3 Intro to Probability and Statist 0.0 Jones T 01:10PM 02:00 LIB 18 
+10443 MATH 211 F01 Introduction to Analysis I 1.0 Perkinson M-T-W-F 09:00AM 09:50 ELIOT 200 
+10444 MATH 211 F02 Introduction to Analysis I 1.0 Wieting M-T-W-F 11:00AM 11:50 ELIOT 200 
+10445 MATH 211 F03 Introduction to Analysis I 1.0 Bernhard M-T-W-F 12:00PM 12:50 LIB 204 
+20451 MATH 212 S01 Introduction to Analysis II 1.0 Wieting M-T-W-F 09:00AM 09:50 ELIOT 207 
+20452 MATH 212 S02 Introduction to Analysis II 1.0 Bernhard M-T-W-F 12:00PM 12:50 PHYSIC 240A 
+20453 MATH 311 S Complex Analysis 1.0 Perkinson M-T-W-F 10:00AM 10:50 LIB 204 
+10446 MATH 321 F Advanced Calculus 1.0 Shurman M-T-W-F 10:00AM 10:50 LIB 204 
+10447 MATH 331 F01 Linear Algebra 1.0 Mayer M-T-W-F 09:00AM 09:50 ELIOT 216 
+10448 MATH 331 F02 Linear Algebra 1.0 Potluri M-T-W-F 11:00AM 11:50 PSYCH 102 
+20454 MATH 331 S Linear Algebra 1.0 Jones M-T-W-F 11:00AM 11:50 ELIOT 216 
+20455 MATH 332 S Abstract Algebra 1.0 Bernhard M-T-W-F 11:00AM 11:50 ELIOT 200 
+20456 MATH 341 S Geometry 1.0 Wieting M-W-F 02:10PM 03:00 LIB 204 
+10449 MATH 372 F Combinatorics 1.0 Perkinson M-W-F 01:10PM 02:00 ELIOT 216 
+20457 MATH 382 S Data Structure and Algorithm 1.0 Fix M-W-F 09:00AM 09:50 PHYSIC 123 
+20643 MATH 385 S Computer Graphics 1.0 Fix M-W-F 01:10PM 02:00 PHYSIC 123 
+10450 MATH 391 F Probability 1.0 Wieting M-W-F 09:00AM 09:50 LIB 204 
+20458 MATH 412 S Topics in Advanced AnalysisII 1.0 Mayer M-W-F 03:10PM 04:00 LIB 204 
+20459 MATH 421 S Elemetary Number Theory 1.0 Shurman M-W-F 12:00PM 12:50 PHYSIC 122 
+10451 MATH 431 F Algebraic Structures 1.0 Bernhard M-W-F 03:10PM 04:00 LIB 204 
+10452 MATH 441 F Topics In Computer Theory 1.0 Fix M-W-F 02:10PM 03:00 LIB 204 
+10746 MATH 555 F Ornamental Art 0.5 Wieting W 05:40PM 07:00 VOLLUM 120 
+
+
